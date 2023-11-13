@@ -1,0 +1,7 @@
+<odoo>
+	<data>
+		<menuitem id="invoice_move_docs_top_menu" name="Invoice Docs Send" sequence="20" web_icon="invoice_move_docs,static/description/icon.png" />
+		<menuitem id="invoice_move_docs_sub_menu" name="Operations" sequence="40" parent="invoice_move_docs_top_menu" />
+		<menuitem id="invoice_move_docs_config_menu" name="Configurations" sequence="50" parent="invoice_move_docs_top_menu" />
+	</data>
+</odoo>
